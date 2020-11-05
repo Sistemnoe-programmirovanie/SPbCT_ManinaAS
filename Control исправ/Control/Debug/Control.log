@@ -1,0 +1,4 @@
+﻿  Control.cpp
+C:\Users\nstm\source\repos\Control\Control\Control.cpp(27,7): warning C4101:  a: неиспользованная локальная переменная
+C:\Users\nstm\source\repos\Control\Control\Control.cpp(154,7): warning C4101:  a: неиспользованная локальная переменная
+  Control.vcxproj -> C:\Users\nstm\source\repos\Control\Debug\Control.exe
